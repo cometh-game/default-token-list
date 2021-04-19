@@ -1,6 +1,15 @@
 [
 
     {
+      "name": "Razor",
+      "address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
+      "symbol": "RAZOR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/razor.png"
+    },
+
+    {
       "name": "Alchemix",
       "address": "0x95c300e7740D2A88a44124B424bFC1cB2F9c3b89",
       "symbol": "ALCX",
