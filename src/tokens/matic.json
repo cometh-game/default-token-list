@@ -10,6 +10,15 @@
     },
     
     {
+      "name": "pBTC",
+      "address": "0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947",
+      "symbol": "pBTC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/pbtc.svg"
+    },
+    
+    {
       "name": "PLAY",
       "address": "0xDd24aA9166dCDf0B37D0Fca17D6Ea87748771dCC",
       "symbol": "PLAY",
