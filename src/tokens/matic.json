@@ -1,5 +1,44 @@
 [
-
+    {
+      "name": "DokiDoki.Chainbinders",
+      "address": "0x032b3217241fe53fFaDB334a9d06aACd2A9153D9",
+      "symbol": "BND",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://chainbinders.degacha.com/static/media/small-bnd.8be8d932.svg"
+    },
+    {
+      "name": "DokiDokiFinance",
+      "address": "0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C",
+      "symbol": "DOKI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544/logo.png"
+    },
+    {
+      "name": "Strudel Finance",
+      "address": "0xf89887862538cE8eFBdbAdD5d483AE4A09dD9688",
+      "symbol": "$TRDL",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/13854/small/1614634281474-TRDL_LOGO_PNG.png"
+    },
+    {
+      "name": "Strudel BTC",
+      "address": "0x1489F4F7E3a80A0aD9fA23C39D2E8af818204ce9",
+      "symbol": "vBTC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://etherscan.io/token/images/strudelbtc_32.png"
+    },
+    {
+      "name": "Stater",
+      "address": "0xA79E0Bfc579c709819f4A0E95d4597f03093B011",
+      "symbol": "STR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/14476/small/stater.png"
+    },
     {
       "name": "Razor",
       "address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
