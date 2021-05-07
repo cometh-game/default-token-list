@@ -1,5 +1,21 @@
 [
     {
+      "name": "RebalanceGovernance Token",
+      "address": "0xefFCa2dBB2D9F3816ceE07aE2134574FA9210dcb",
+      "symbol": "RBAG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/rbag.jpeg"
+    },
+    {
+      "name": "VGTGToken",
+      "address": "0x0c5EBeD5cB5BD838BDc43E1583D9d054f3d7Be6c",
+      "symbol": "VGTG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/vgtg.jpeg"
+    },
+    {
       "name": "DokiDoki.Chainbinders",
       "address": "0x032b3217241fe53fFaDB334a9d06aACd2A9153D9",
       "symbol": "BND",
