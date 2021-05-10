@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/rbag.jpeg"
     },
     {
+      "name": "FISH",
+      "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
+      "symbol": "FISH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Polycat.png"
+    },
+    {
       "name": "MM Token",
       "address": "0x2E220744f9aC1BF3045B0588D339F5fD3bB8623A",
       "symbol": "MM",
