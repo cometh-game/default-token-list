@@ -9,7 +9,7 @@
     },
     {
       "name": "FISH",
-      "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
+      "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
       "symbol": "FISH",
       "decimals": 18,
       "chainId": 137,
