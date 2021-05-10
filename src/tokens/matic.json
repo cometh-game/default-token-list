@@ -29,7 +29,7 @@
       "symbol": "mWETH",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mWETH.png"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mWETH.jpg"
     },
     {
       "name": "Mushrooming WBTC",
@@ -37,7 +37,7 @@
       "symbol": "mWBTC",
       "decimals": 8,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mWBTC.png"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mWBTC.jpg"
     },
     {
       "name": "LADZ",
