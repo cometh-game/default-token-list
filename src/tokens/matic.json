@@ -27,7 +27,7 @@
       "name": "Mushrooming WBTC",
       "address": "0x652e36ecfa0e4f7e435f6d38688d68a3be65639c",
       "symbol": "mWBTC",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 137,
       "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/mWBTC.jpg"
     },
@@ -35,7 +35,7 @@
       "name": "LADZ",
       "address": "0x220ed61d1f1cc754cb71978585d69e07be576315",
       "symbol": "LADZ",
-      "decimals": 18,
+      "decimals": 4,
       "chainId": 137,
       "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/ladz.jpg"
     },
