@@ -9,35 +9,35 @@
     },
     {
       "name": "MM Token",
-      "address": "0x2e220744f9ac1bf3045b0588d339f5fd3bb8623a",
+      "address": "0x2E220744f9aC1BF3045B0588D339F5fD3bB8623A",
       "symbol": "MM",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/MMtoken.png"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/MMtoken.png"
     },
     {
       "name": "Mushrooming WETH",
-      "address": "0xdc0f3c12df89593357985491bdacc5fd789ca4b2",
+      "address": "0xdc0f3C12dF89593357985491bdAcc5Fd789cA4B2",
       "symbol": "mWETH",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/mWETH.jpg"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mWETH.png"
     },
     {
       "name": "Mushrooming WBTC",
-      "address": "0x652e36ecfa0e4f7e435f6d38688d68a3be65639c",
+      "address": "0x652E36ecFA0E4F7e435F6D38688D68a3bE65639c",
       "symbol": "mWBTC",
       "decimals": 8,
       "chainId": 137,
-      "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/mWBTC.jpg"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mWBTC.png"
     },
     {
       "name": "LADZ",
-      "address": "0x220ed61d1f1cc754cb71978585d69e07be576315",
+      "address": "0x220ED61d1f1CC754cB71978585D69e07Be576315",
       "symbol": "LADZ",
       "decimals": 4,
       "chainId": 137,
-      "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/ladz.jpg"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/ladz.jpg"
     },
     {
       "name": "VGTGToken",
