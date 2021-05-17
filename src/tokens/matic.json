@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/rbag.jpeg"
     },
     {
+      "name": "Adamant",
+      "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+      "symbol": "ADDY",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/addy.jpg"
+    },
+    {
       "name": "FISH",
       "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
       "symbol": "FISH",
