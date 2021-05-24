@@ -37,7 +37,7 @@
       "symbol": "ADDY",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/addy.jpg"
+      "logoURI": "https://github.com/cometh-game/default-token-list/raw/master/img/addy.jpg"
     },
     {
       "name": "FISH",
