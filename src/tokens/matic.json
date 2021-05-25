@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/rbag.jpeg"
     },
     {
+      "name": "Eleven Finance",
+      "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+      "symbol": "ELE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://eleven.finance/ELE-logo.svg"
+    },
+    {
       "name": "Autofarm",
       "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
       "symbol": "pAUTO",
