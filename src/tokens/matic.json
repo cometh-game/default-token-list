@@ -13,7 +13,7 @@
       "symbol": "APW",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/APWine/apwine-branding-resources/main/logo/token.png"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/APWine.jpeg"
     },
      {
       "name": "Showcase",
@@ -21,7 +21,7 @@
       "symbol": "SHO",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/APWine/apwine-branding-resources/main/logo/token.png"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/ad8c53fa2bd31dfa827c7107e96f3a1591a260ed/img/Showcase_Logos.svg"
     },
     {
       "name": "Eleven Finance",
