@@ -8,6 +8,22 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/rbag.jpeg"
     },
     {
+      "name": "APWine",
+      "address": "0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
+      "symbol": "APW",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/APWine/apwine-branding-resources/main/logo/token.png"
+    },
+     {
+      "name": "Showcase",
+      "address": "0x9e01e0A928588aE6E669b8d1F0f1fa4AB976f617",
+      "symbol": "SHO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/APWine/apwine-branding-resources/main/logo/token.png"
+    },
+    {
       "name": "Eleven Finance",
       "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
       "symbol": "ELE",
