@@ -13,7 +13,7 @@
       "symbol": "BPT",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://github.com/cometh-game/default-token-list/blob/master/img/blackpool.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/blackpool.jpeg"
     },
     {
       "name": "APWine",
