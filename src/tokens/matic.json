@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/rbag.jpeg"
     },
     {
+      "name": "GrumpySat",
+      "address": "0x6A174B728D8b7C0C1F239910BB90B3540e1Cc0Dd",
+      "symbol": "gSAT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/gSAT.jpeg"
+    },
+    {
       "name": "Blackpool",
       "address": "0x6863BD30C9e313B264657B107352bA246F8Af8e0",
       "symbol": "BPT",
