@@ -643,14 +643,6 @@
     "logoURI": "https://aavegotchi.com/images/matokens/maYFI.svg"
   },
   {
-    "name": "Matic Rebalance Token",
-    "address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
-    "symbol": "mRBAL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://rebalancetoken.io/images/logo/logo.png"
-  },
-  {
     "name": "Must",
     "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
     "symbol": "MUST",
