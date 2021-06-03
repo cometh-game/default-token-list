@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/rbag.jpeg"
     },
     {
+      "name": "Matic Rebalance Token",
+      "address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
+      "symbol": "mRBAL",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mRBAL.jpeg"
+    },
+    {
       "name": "GrumpySat",
       "address": "0x6A174B728D8b7C0C1F239910BB90B3540e1Cc0Dd",
       "symbol": "gSAT",
