@@ -1,6 +1,14 @@
 [
     {
       "name": "RebalanceGovernance Token",
+      "address": "0xd93c61d4418d77a537b6b57478c108e193362f0c",
+      "symbol": "mBONK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/mBonk.png"
+    },
+    {
+      "name": "RebalanceGovernance Token",
       "address": "0xefFCa2dBB2D9F3816ceE07aE2134574FA9210dcb",
       "symbol": "RBAG",
       "decimals": 18,
