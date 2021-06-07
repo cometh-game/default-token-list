@@ -1,6 +1,14 @@
 [
     {
-      "name": "RebalanceGovernance Token",
+      "name": "StakeWise",
+      "address": "0xBbbe128568222623D21299f019a978C8587B33dC",
+      "symbol": "SWISE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Swise.png"
+    },
+    {
+      "name": "MegaBONK",
       "address": "0xd93c61d4418d77a537b6b57478c108e193362f0c",
       "symbol": "mBONK",
       "decimals": 18,
