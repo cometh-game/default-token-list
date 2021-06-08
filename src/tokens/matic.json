@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Swise.png"
     },
     {
+      "name": "PolyGaj",
+      "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+      "symbol": "GAJ",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/polygaj.png"
+    },
+    {
       "name": "MegaBONK",
       "address": "0xd93c61D4418d77A537b6B57478C108E193362f0C",
       "symbol": "mBONK",
@@ -157,7 +165,7 @@
       "symbol": "BND",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://chainbinders.degacha.com/static/media/small-bnd.8be8d932.svg"
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/bnd.png"
     },
     {
       "name": "DokiDokiFinance",
