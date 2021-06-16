@@ -8,6 +8,22 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Swise.png"
     },
     {
+      "name": "AGAcr",
+      "address": "0xcbce9f77921c2e90522d438df4c5582f4c617768",
+      "symbol": "AGAcr",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/agacr.png"
+    },
+    {
+      "name": "AGAc",
+      "address": "0x669ddc70273084ea30e6cd4f28ca6e2c70735065",
+      "symbol": "AGAc",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/agac.png"
+    },
+    {
       "name": "PolyGaj",
       "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
       "symbol": "GAJ",
