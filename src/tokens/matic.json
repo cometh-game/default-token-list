@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Swise.png"
     },
     {
+      "name": "IRON Titanium Token",
+      "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+      "symbol": "TITAN",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/titan.jpeg"
+    },
+    {
       "name": "AGAcr",
       "address": "0xcBce9f77921C2E90522d438dF4C5582F4c617768",
       "symbol": "AGAcr",
