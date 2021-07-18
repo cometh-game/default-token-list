@@ -8,6 +8,30 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Swise.png"
     },
     {
+      "name": "wrapped Prestige",
+      "address": "0xc0f14C88250E680eCd70224B7fBa82b7C6560d12",
+      "symbol": "wPTG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://arena.cryptocolosseum.com/images/icons/prestige.svg"
+    },
+    {
+      "name": "renDOGE",
+      "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+      "symbol": "renDOGE",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Doge.jpeg"
+    },
+     {
+      "name": "YAM",
+      "address": "0xb3B681dEE0435eCc0a508e40B02b3C9068D618cd",
+      "symbol": "YAM",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/yam.png"
+    },
+    {
       "name": "IRON Titanium Token",
       "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
       "symbol": "TITAN",
