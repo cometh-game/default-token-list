@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Swise.png"
     },
     {
+      "name": "Mork",
+      "address": "0xa707734BD310883e133e0ca23F6C166AEB2A1A7a",
+      "symbol": "MORK",
+      "decimals": 4,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Mork.png"
+    },
+    {
       "name": "wrapped Prestige",
       "address": "0xc0f14C88250E680eCd70224B7fBa82b7C6560d12",
       "symbol": "wPTG",
