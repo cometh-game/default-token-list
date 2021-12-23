@@ -1,5 +1,13 @@
 [
     {
+      "name": "Paraswap",
+      "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
+      "symbol": "PSP",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/a6eb86854af8368529fa6798ddfdf30daf9a5431/img/ParaSwap.svg"
+    },
+    {
       "name": "StakeWise",
       "address": "0xBbbe128568222623D21299f019a978C8587B33dC",
       "symbol": "SWISE",
