@@ -8,6 +8,14 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/a6eb86854af8368529fa6798ddfdf30daf9a5431/img/ParaSwap.svg"
     },
     {
+      "name": "Lucha",
+      "address": "0x6749441Fdc8650b5b5a854ed255C82EF361f1596",
+      "symbol": "LUCHA",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/lucha.jpeg"
+    },
+    {
       "name": "StakeWise",
       "address": "0xBbbe128568222623D21299f019a978C8587B33dC",
       "symbol": "SWISE",
