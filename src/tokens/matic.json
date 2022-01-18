@@ -1,5 +1,21 @@
 [
     {
+      "name": "MAI",
+      "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+      "symbol": "MAI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/MAI.png"
+    },
+    {
+      "name": "QiDAO",
+      "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+      "symbol": "QI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/QiDAO.jpeg"
+    },
+    {
       "name": "Paraswap",
       "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
       "symbol": "PSP",
