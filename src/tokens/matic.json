@@ -1,5 +1,13 @@
 [
     {
+      "name": "Meeds DAO",
+      "address": "0x6aca77cf3bab0c4e8210a09b57b07854a995289a",
+      "symbol": "MEED",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://github.com/Meeds-io/.github/raw/main/profile/meeds-256x256.png"
+    },
+    {
       "name": "MAI",
       "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
       "symbol": "MAI",
