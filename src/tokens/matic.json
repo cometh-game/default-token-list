@@ -1,7 +1,7 @@
 [
     {
       "name": "Meeds DAO",
-      "address": "0x6aca77cf3bab0c4e8210a09b57b07854a995289a",
+      "address": "0x6acA77CF3BaB0C4E8210A09B57B07854a995289a",
       "symbol": "MEED",
       "decimals": 18,
       "chainId": 137,
@@ -9,7 +9,7 @@
     },
     {
       "name": "MAI",
-      "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+      "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
       "symbol": "MAI",
       "decimals": 18,
       "chainId": 137,
@@ -17,7 +17,7 @@
     },
     {
       "name": "QiDAO",
-      "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+      "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
       "symbol": "QI",
       "decimals": 18,
       "chainId": 137,
