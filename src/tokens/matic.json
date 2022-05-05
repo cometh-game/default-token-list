@@ -1,5 +1,45 @@
 [
     {
+      "name": "Aluminium",
+      "address": "0x041b4394F2a1A2EAF7e21460Ef59370789cb1F42",
+      "symbol": "Al",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Al.png"
+    },
+    {
+      "name": "Magnesium",
+      "address": "0x2b70b0dDb96E2581a311dEB25A1424C7167E4A53",
+      "symbol": "Mg",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Mg.png"
+    },
+    {
+      "name": "Tungsten",
+      "address": "0x52fc543Bd23D1948F11eb265eAbDEfBbB0131572",
+      "symbol": "W",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/W.png"
+    },
+    {
+      "name": "Copper",
+      "address": "0xf6351c1163314e95d025575c5CeA314b055b7ED3",
+      "symbol": "Cu",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Cu.png"
+    },
+    {
+      "name": "Titanium",
+      "address": "0xd0ecD879dC1403697D341c9Db1db51075D2adC69",
+      "symbol": "Ti",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/Ti.png"
+    },
+    {
       "name": "Meeds DAO",
       "address": "0x6acA77CF3BaB0C4E8210A09B57B07854a995289a",
       "symbol": "MEED",
