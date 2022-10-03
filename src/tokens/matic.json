@@ -1,5 +1,13 @@
 [
     {
+      "name": "CommitDAO",
+      "address": "0x9Bc0abf87F9350cDE55b2CDA219871726d620Bf9",
+      "symbol": "CMT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/CMT.svg"
+    },
+    {
       "name": "Aluminium",
       "address": "0x041b4394F2a1A2EAF7e21460Ef59370789cb1F42",
       "symbol": "Al",
